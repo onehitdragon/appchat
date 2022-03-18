@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/chatapp/app/src/main/res/drawable/bg0_button_fb_gg.xml" value="0.1" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/bg_button_fb_gg.xml" value="0.188" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/bg_button_fb_gg0.xml" value="0.1" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/bg_button_login.xml" value="0.163" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/border_button_fb_gg.xml" value="0.155" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/button_login.xml" value="0.1805" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/button_login_fb_gg.xml" value="0.188" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/checkbox_password.xml" value="0.182" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/color_text_forget_pass.xml" value="0.163" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/icon_fb_change.xml" value="0.182" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/icon_gg_change.xml" value="0.182" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/shape_icon_fb.xml" value="0.155" />
+        <entry key="..\:/chatapp/app/src/main/res/drawable/text_button_fb_gg.xml" value="0.1" />
+        <entry key="..\:/chatapp/app/src/main/res/layout/activity_main.xml" value="0.4531791907514451" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

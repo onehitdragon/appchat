@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="login_title">App chat trực tuyến</string>
+</resources>
